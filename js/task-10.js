@@ -41,4 +41,3 @@ function getRandomHexColor() {
 
 btnCreateEl.addEventListener("click", createBoxes);
 btnDestroyEl.addEventListener("click", destroyBoxes);
-
